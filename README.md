@@ -6,7 +6,7 @@
  - To use ,in messenger search for 'Ticket-Bot'
 
 ## Demo:
-![Alt text](assets/demo.jpeg?raw=true "Title")
+![Alt text](assets/demo.png?raw=true "Title")
 
 
 
